@@ -11,7 +11,7 @@ The project focuses on **FinTrust Digital Bank**, a synthetic digital banking ec
 During Week 1, I:
 
 * Completed a business intelligence assessment.
-* Profiled more than **12,000 transaction records**.
+* Profiled **12,000 transaction records and 1,500 customer records**.
 * Identified relevant data fields and potential data-quality considerations.
 * Defined key banking **KPIs** for future analysis.
 * Designed an **executive dashboard wireframe** focused on operational performance and transactional risk.
